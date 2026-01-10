@@ -4,7 +4,7 @@ A robust, real-time computer vision application that tracks objects based on col
 
 ## 📸 Demo
 
-[![Watch the Demo](demo/image.png)](demo/demo_video.mp4)
+[![Watch the Demo](demo/demo_video.mp4)
 *Click the image above to watch the full demo video*
 
 | Object Tracking | Kalman Prediction & Locking |
