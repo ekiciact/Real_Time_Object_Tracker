@@ -1,0 +1,11 @@
+name: cv-tracker
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - opencv
+  - pip
+  - pip:
+    - imutils
